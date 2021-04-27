@@ -7,4 +7,6 @@
 
         Suspendisse sed ultricies ligula, ac ullamcorper metus. Vestibulum mollis enim vitae purus lacinia vulputate. Duis eu ipsum sollicitudin, auctor nisl quis, varius diam. Vestibulum maximus finibus enim, in finibus nisi dictum quis. Vivamus id est eget mi malesuada placerat. Donec fringilla dui sit amet maximus commodo. Vivamus accumsan ex elit, ut scelerisque lectus ultrices tempor. In sagittis congue elit nec ultrices.
     </string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
 </resources>
