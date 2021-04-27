@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">About Me App</string>
+    <string name="name">Rodrigo Samayoa</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam vehicula mollis sapien, non molestie dolor elementum nec. Sed felis justo, tempor at dui eu, ornare bibendum lectus. Quisque convallis molestie viverra. Quisque iaculis eros sit amet finibus bibendum. Phasellus vel rhoncus orci. Vivamus mauris nisi, ornare nec mi a, consequat convallis libero. Donec nulla mauris, tincidunt vitae mattis vel, hendrerit eget purus. Donec nisl felis, maximus vitae venenatis ac, pellentesque ut ex. Nulla tincidunt libero nec metus vehicula posuere. Sed aliquet est at orci commodo, sit amet posuere nunc sodales. Sed quis nibh accumsan, lobortis justo quis, commodo quam. Cras diam justo, mattis ac ornare non, imperdiet et augue.
+
+        Suspendisse sed ultricies ligula, ac ullamcorper metus. Vestibulum mollis enim vitae purus lacinia vulputate. Duis eu ipsum sollicitudin, auctor nisl quis, varius diam. Vestibulum maximus finibus enim, in finibus nisi dictum quis. Vivamus id est eget mi malesuada placerat. Donec fringilla dui sit amet maximus commodo. Vivamus accumsan ex elit, ut scelerisque lectus ultrices tempor. In sagittis congue elit nec ultrices.
+    </string>
 </resources>
